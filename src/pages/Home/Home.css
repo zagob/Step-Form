@@ -1,0 +1,59 @@
+.home-container {
+    background-color: #F9F9FA !important;
+    
+}
+
+.banner-container {
+    background: url("../../assets/image/banner2.png");
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 475px;
+}
+
+.banner-conteudo {
+    padding-left: 216px;
+    padding-top: 167px;
+   
+}
+
+.anuncio-conteudo {
+    width: 293px;
+}
+
+.texto-anuncio {
+    color: #182849;
+    font-size: 45px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+.texto-container {
+    display: flex;
+    background-color: antiquewhite;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 74px !important;
+    padding-bottom: 94px !important;
+    height: 710px;
+    background: url("../../assets/svg/predios.svg"); 
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+.titulo-principal {
+    color: #182849;
+    font-size: 34px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+.subtitulo-principal {
+    color: #182849;
+    font-size: 23px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    margin-right: 319px;
+    margin-left: 319px;
+    /* text-align: center; */
+}
